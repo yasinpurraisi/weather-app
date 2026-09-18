@@ -1,0 +1,20 @@
+{
+    "name": "yasinpourraisi/weatherapp",
+    "description": "a weatherapp written with PHP",
+    "type": "project",
+    "require": {
+        "guzzlehttp/guzzle": "^8.2",
+        "vlucas/phpdotenv": "^5.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "Yasinpourraisi\\Weatherapp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yasin Pourraisi",
+            "email": "yasinpourraisi@gmail.com"
+        }
+    ]
+}
