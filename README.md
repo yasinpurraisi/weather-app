@@ -2,13 +2,6 @@
 
 A PHP command-line application that retrieves current weather information from OpenWeatherMap.
 
-## Requirements
-
-- PHP 8.1 or later
-- Composer
-- An OpenWeatherMap API key
-- Internet access
-
 ## Usage
 
 Pass the city name as the first command-line argument:
